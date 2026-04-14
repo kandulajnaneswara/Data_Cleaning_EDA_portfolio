@@ -10,6 +10,14 @@ I specialize in transforming messy CSV and Excel datasets into clean, analysis-r
 - Data Visualization (Matplotlib, Seaborn)
 - Excel & Google Sheets
 
+## :wrench: Tools Expertise
+- Programming: Python (Pandas, NumPy)
+- Visualization: Matplotlib, Seaborn
+- Data Handling: Excel, Google Sheets
+- BI Tools: Power BI or Tableau
+- Version Control: Git & GitHub
+- Environment: Jupyter Notebook or VS Code
+
 ## 📂 Projects
 ### 1. Sales Data Cleaning & EDA
 - Cleaned and standardized a large sales dataset.
