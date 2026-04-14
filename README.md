@@ -19,10 +19,15 @@ I specialize in transforming messy CSV and Excel datasets into clean, analysis-r
 - Environment: Jupyter Notebook or VS Code
 
 ## 📂 Projects
-### 1. Sales Data Cleaning & EDA
-- Cleaned and standardized a large sales dataset.
-- Identified seasonal trends and top-performing products.
-- [View Project](./project-1-sales-analysis)
+### 1. Titanic Data Cleaning & EDA
+- Cleaned and standardized titanic dataset taken from Kaggle platform.
+- Identified & Analyzed
+  
+               1. Female passengers had a significantly higher survival rate.
+               2. First-class passengers were more likely to survive.
+               3. Higher fares were associated with increased survival.
+               4. Larger family sizes showed varying survival patterns.
+- [View Project]  (./Project 1_titanic_data_cleaning_eda)
 
 ### 2. Customer Segmentation
 - Implemented RFM analysis to segment customers.
