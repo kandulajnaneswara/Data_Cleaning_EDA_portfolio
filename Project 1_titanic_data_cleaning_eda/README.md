@@ -29,3 +29,21 @@ This project focuses on cleaning and analyzing the Titanic dataset from Kaggle. 
 - Larger family sizes showed varying survival patterns.
 
 ## 📂 Project Structure
+```text
+titanic-data-cleaning-eda/
+│
+├── plots/
+│  ├── chart1_survival_distribution.png
+│  └── chart2_survival_by_gender.png
+│  └── chart3_age_distribution.png
+│  └── chart4_correlation_heatmap.png
+│  └── chart5_fare_vs_survival.png
+│── train.csv
+│── cleaned_titanic_dataset.csv
+├── titanic_eda.py
+└── README.md
+└── How_to_run.md
+
+
+
+
