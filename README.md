@@ -30,7 +30,7 @@ I specialize in transforming messy CSV and Excel datasets into clean, analysis-r
 [🔗 View Project](./Project_1_titanic_data_cleaning_eda)
 
 ### 2. Netflix Data Cleaning & EDA
-- cleaning and analyzing Netflix content data to extract meaningful insights about content distribution, trends, and viewer targeting.
+- Cleaning and analyzing Netflix content data to extract meaningful insights about content distribution, trends, and viewer targeting.
 - Identified & Analyzed
 
                1. Movies dominate Netflix content compared to TV shows
