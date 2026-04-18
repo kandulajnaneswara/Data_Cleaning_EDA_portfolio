@@ -31,7 +31,7 @@ This project focuses on cleaning and analyzing the Titanic dataset from Kaggle. 
 ## 📦 Deliverables
 
 - Cleaned dataset (CSV)
-- Python script / Notebook
+- Python script
 - Visualizations
 - Insight summary
 
