@@ -3,6 +3,13 @@
 ## 📌 Project Overview
 This project focuses on cleaning and analyzing the Titanic dataset from Kaggle. The goal is to transform raw data into an analysis-ready format and extract meaningful insights about passenger survival.
 
+## 💡 Skills Demonstrated
+- Data Cleaning
+- Handling Missing Values
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Feature Engineering
+
 ## 🎯 Objectives
 - Handle missing values and inconsistencies.
 - Perform exploratory data analysis.
