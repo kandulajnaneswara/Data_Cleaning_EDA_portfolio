@@ -27,11 +27,17 @@ I specialize in transforming messy CSV and Excel datasets into clean, analysis-r
                2. First-class passengers were more likely to survive.
                3. Higher fares were associated with increased survival.
                4. Larger family sizes showed varying survival patterns.
-- [View Project]  (./Project 1_titanic_data_cleaning_eda)
+[🔗 View Project](./Project_1_titanic_data_cleaning_eda)
 
-### 2. Customer Segmentation
-- Implemented RFM analysis to segment customers.
-- Provided marketing recommendations.
+### 2. Netflix Data Cleaning & EDA
+- cleaning and analyzing Netflix content data to extract meaningful insights about content distribution, trends, and viewer targeting.
+- Identified & Analyzed
+
+               1. Movies dominate Netflix content compared to TV shows
+               2. Significant growth in content addition after 2015
+               3. USA and India produce the most content
+               4. Most content is targeted toward mature audiences
+[🔗 View Project](./Project_2_NetFlix_data_cleaning&EDA)
 
 ### 3. Restaurant Tips Analysis
 - Analyzed tipping behavior using statistical techniques.
