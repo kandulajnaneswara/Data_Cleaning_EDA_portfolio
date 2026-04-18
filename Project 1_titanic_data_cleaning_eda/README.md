@@ -28,6 +28,13 @@ This project focuses on cleaning and analyzing the Titanic dataset from Kaggle. 
 - Higher fares were associated with increased survival.
 - Larger family sizes showed varying survival patterns.
 
+## 📦 Deliverables
+
+- Cleaned dataset (CSV)
+- Python script / Notebook
+- Visualizations
+- Insight summary
+
 ## 📂 Project Structure
 ```text
 titanic-data-cleaning-eda/
