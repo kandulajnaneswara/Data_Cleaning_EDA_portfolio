@@ -51,6 +51,14 @@ The dataset contains missing values, inconsistent data, and requires preprocessi
 - Visualizations
 - Insight summary
 
+## 📊 Visual Insights
+
+![Survival distribution](plots/chart1_survival_distribution.png)
+![Survival by Gender](plots/chart2_survival_by_gender.png)
+![Age distribution](plots/chart3_age_distribution.png)
+![Correlation Heatmap](plots/chart4_correlation_heatmap.png)
+![Fare vs Survival](plots/chart5_fare_vs_survival.png)
+
 ## 📂 Project Structure
 ```text
 titanic-data-cleaning-eda/
