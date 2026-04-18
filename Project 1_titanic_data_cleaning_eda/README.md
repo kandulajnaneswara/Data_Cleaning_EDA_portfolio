@@ -39,9 +39,8 @@ The dataset contains missing values, inconsistent data, and requires preprocessi
 - Created new features for better analysis
 
 ## 📊 Key Insights
-- Female passengers had a significantly higher survival rate.
-- First-class passengers were more likely to survive.
-- Higher fares were associated with increased survival.
+- Female passengers show significantly higher survival rates → priority evacuation bias
+- High fare passengers (likely upper class) had better survival chances → socio-economic impact
 - Larger family sizes showed varying survival patterns.
 
 ## 📦 Deliverables
