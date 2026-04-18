@@ -29,6 +29,15 @@ This project focuses on cleaning and analyzing the Titanic dataset from Kaggle. 
 - Standardized categorical variables.
 - Engineered new features such as `FamilySize` and `Title`.
 
+## ❗ Problem Statement
+The dataset contains missing values, inconsistent data, and requires preprocessing before analysis.
+
+## ✅ Solution
+- Filled missing values in Age and Embarked
+- Removed duplicates
+- Standardized categorical columns
+- Created new features for better analysis
+
 ## 📊 Key Insights
 - Female passengers had a significantly higher survival rate.
 - First-class passengers were more likely to survive.
